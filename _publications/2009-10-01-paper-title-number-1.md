@@ -1,17 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "Unsupervised Approach for Monitoring Satire on Social Media"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2009-10-01
-thumbnail: /images/image-alignment-300x200.jpg
+thumbnail: /images/paper-1.png
 authors:
-    - xyz
-    - abc
-    - def
+    - Aman Sinha
+    - Parth Patekar
+    - Dr. Radhika Mamidi
 paper_url: /publication/2009-10-01-paper-title-number-1
 code_url: /publication/2009-10-01-paper-title-number-1
 blog_url: /publication/2009-10-01-paper-title-number-1
-conf_name: something
+conf_name: Proceedings of the 11th Forum for Information Retrieval Evaluation
 
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 # venue: 'Journal 1'
@@ -19,6 +19,15 @@ conf_name: something
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.researchgate.net/profile/Aman_Sinha13/publication/338007792_Unsupervised_Approach_for_Monitoring_Satire_on_Social_Media/links/5dfa0cd5a6fdcc283728fe1b/Unsupervised-Approach-for-Monitoring-Satire-on-Social-Media.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: 
+```
+@inproceedings{sinha2019unsupervised,
+  title={Unsupervised Approach for Monitoring Satire on Social Media},
+  author={Sinha, Aman and Patekar, Parth and Mamidi, Radhika},
+  booktitle={Proceedings of the 11th Forum for Information Retrieval Evaluation},
+  pages={36--41},
+  year={2019}
+}
+```
