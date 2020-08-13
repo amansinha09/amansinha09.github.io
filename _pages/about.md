@@ -23,8 +23,9 @@ Internships
 
 News
 ======
-* New! Our paper "C-Net: Contextual Network for Sarcasm Detection" at FigLang 2020.
-<!-- * I will be joining as research intern at IECL Laboratory, University of Lorraine, Nancy, France from February 2020.
- * One paper accepted at [FIRE 2019](http://fire.irsi.res.in/fire/2019/home).
+* Our paper "C-Net: Contextual Network for Sarcasm Detection" at FigLang 2020.
+<!-- 
+* I will be joining as research intern at IECL Laboratory, University of Lorraine, Nancy, France from February 2020.
+* One paper accepted at [FIRE 2019](http://fire.irsi.res.in/fire/2019/home).
 -->
 
