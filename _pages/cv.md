@@ -7,9 +7,8 @@ redirect_from:
   - /resume
 ---
 
-#{% include base_path %}
 
-Here is my academic cv in pdf format (current as of July 2020)
+Here is my academic cv in pdf format (current as of July 2020):
 
 Education
 ======
