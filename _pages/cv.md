@@ -10,6 +10,8 @@ redirect_from:
 
 Here is my academic cv in pdf format (current as of July 2020):
 
+<embed src="https://amansinha09.github.io/files/as_cv.pdf" type="application/pdf" width="600px" height="500px" />
+
 Education
 ======
 * Integrated Master of Technology, Indian Institute of Technology - Dhanbad, 2015-2020
