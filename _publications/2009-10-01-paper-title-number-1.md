@@ -9,8 +9,8 @@ authors:
     - Parth Patekar
     - Dr. Radhika Mamidi
 paper_url: https://www.researchgate.net/profile/Aman_Sinha13/publication/338007792_Unsupervised_Approach_for_Monitoring_Satire_on_Social_Media/links/5dfa0cd5a6fdcc283728fe1b/Unsupervised-Approach-for-Monitoring-Satire-on-Social-Media.pdf
-code_url: /publication/2009-10-01-paper-title-number-1
-blog_url: /publication/2009-10-01-paper-title-number-1
+code_url: https://github.com/amansinha09/Dyn-AE
+# blog_url: /publication/2009-10-01-paper-title-number-1
 conf_name: Proceedings of the 11th Forum for Information Retrieval Evaluation
 
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
