@@ -3,7 +3,7 @@ title: "C-Net: Contextual Network for Sarcasm Detection"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 date: 2010-10-01
-thumbnail: /images/paper-2.jpg
+thumbnail: /images/paper-2.png
 authors:
     - Amit Kumar Jena
     - Aman Sinha    
