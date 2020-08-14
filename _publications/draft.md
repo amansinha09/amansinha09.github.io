@@ -8,9 +8,9 @@ authors:
     - xyz
     - abc
     - def
-paper_url: /publication/2015-10-01-paper-title-number-3
-code_url: /publication/2015-10-01-paper-title-number-3
-blog_url: /publication/2015-10-01-paper-title-number-3
+paper_url: /publication/draft
+code_url: /publication/draft
+blog_url: /publication/draft
 conf_name: something
 
 # MAKE THE <FILE_NAME> SAME AS PERMALINK/<FILE_NAME>
