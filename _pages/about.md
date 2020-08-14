@@ -20,6 +20,7 @@ Laboratory](http://www.iecl.univ-lorraine.fr/) and [ATILF](http://atilf.atilf.fr
 
 News
 ======
+* Receipient of Diversity & Inclusion Award for attending ACL 2020 conference.
 * Our paper "C-Net: Contextual Network for Sarcasm Detection" at FigLang 2020.
 
 
