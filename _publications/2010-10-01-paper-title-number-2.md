@@ -8,9 +8,9 @@ authors:
     - Amit Kumar Jena
     - Aman Sinha    
     - Rohit Agarwal
-paper_url: /publication/2010-10-01-paper-title-number-2
-code_url: /publication/2010-10-01-paper-title-number-2
-blog_url: /publication/2010-10-01-paper-title-number-2
+paper_url: https://www.aclweb.org/anthology/2020.figlang-1.8.pdf
+code_url: https://github.com/dsciitism/C-Net
+# blog_url: /publication/2010-10-01-paper-title-number-2
 conf_name: Proceedings of the Second Workshop on Figurative Language Processing
 
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
