@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am graduate student with Integrated M.Tech. Degree in Mathematics and Computing from the Indian Institute of Technology, Dhanbad. My academic mentor was [Dr. Badam Singh Kushvah](https://www.iitism.ac.in/~bskush/). I did my Master Thesis in Multimodal Emotion Prediction under the supervision of [Dr. Ashutosh Modi](https://ashutosh-modi.github.io/), Assistant Professor, CSE Department, IIT Kanpur.
+I am graduate student with Integrated M.Tech. Degree in Mathematics and Computing from the Indian Institute of Technology, Dhanbad. My academic supervisor was [Dr. Badam Singh Kushvah](https://www.iitism.ac.in/~bskush/). 
+
+I did my Master Thesis in Multimodal Emotion Prediction under the supervision of [Dr. Ashutosh Modi](https://ashutosh-modi.github.io/), Assistant Professor, Compter  Science & Engineering Department, IIT Kanpur, India.
 
 I am interested in the research areas of Deep Learning, Natural Language Understanding, and various cross domains applications.
 
