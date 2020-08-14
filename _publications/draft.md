@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 3"
-collection: publications
-permalink: -
+# collection: publications
+# permalink: /publication/draft
 date: 2015-10-01
 thumbnail: /images/image-alignment-300x200.jpg
 authors:
