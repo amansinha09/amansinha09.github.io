@@ -5,8 +5,8 @@ permalink: /publication/2010-10-01-paper-title-number-4
 date: 2010-10-01
 thumbnail: /images/paper-4.png
 authors:
-    - Priyanshu Kumar
     - Aadarsh Singh
+    - Priyanshu Kumar
     - Aman Sinha    
 # paper_url: https://arxiv.org/pdf/2008.00825.pdf
 code_url: https://github.com/dsciitism/SemEval-2020-Task-6
