@@ -1,5 +1,5 @@
 ---
-title: "DSC IIT-ISM at SemEval-2020 Task 8: Bi-Fusion Techniques for Deep Meme Emotion Analysis"
+title: "Bi-Fusion Techniques for Deep Meme Emotion Analysis"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 date: 2010-10-01
