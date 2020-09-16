@@ -1,5 +1,5 @@
 ---
-title: "DSC IIT-ISM at SemEval-2020 Task 6: Boosting BERT with Dependencies for Definition Extraction"
+title: "Boosting BERT with Dependencies for Definition Extraction"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-4
 date: 2010-10-01
