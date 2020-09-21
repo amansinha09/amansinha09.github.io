@@ -8,7 +8,7 @@ authors:
     - Aadarsh Singh
     - Priyanshu Kumar
     - Aman Sinha    
-# paper_url: https://arxiv.org/pdf/2008.00825.pdf
+paper_url: https://arxiv.org/pdf/2009.08180.pdf
 code_url: https://github.com/dsciitism/SemEval-2020-Task-6
 # blog_url: /publication/2010-10-01-paper-title-number-4
 conf_name: To appear in SemEval 2020
