@@ -23,4 +23,6 @@ News
 * Will be attending [Advanced Language Processing School 2021](http://lig-alps.imag.fr/).
 * Our paper "Detection of COVID-19 informative tweets using RoBERTa" has been accepted at WNUT-2020
 * Two papers accepted at SemEval 2020.
+* Receipient of Diversity & Inclusion Award for attending ACL 2020 conference.
+* Our paper “C-Net: Contextual Network for Sarcasm Detection” at FigLang 2020.
 
