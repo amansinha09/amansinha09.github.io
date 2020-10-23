@@ -19,7 +19,7 @@ conf_name: To appear in WNUT 2020
 ---
 
 
-[Download paper here](https://www.aclweb.org/anthology/2020.figlang-1.8.pdf)
+[Download paper here](https://arxiv.org/pdf/2010.11238.pdf)
 
 Recommended citation:
 ```
