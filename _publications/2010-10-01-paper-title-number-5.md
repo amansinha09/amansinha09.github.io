@@ -3,7 +3,7 @@ title: "Detection of COVID-19 informative tweets using RoBERTa"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-5
 date: 2010-10-01
-thumbnail: /images/paper-5.png
+thumbnail: /images/paper-5.PNG
 authors:
     - Sirigireddy Dhanalaxmi
     - Rohit Agarwal
