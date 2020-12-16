@@ -1,0 +1,25 @@
+---
+title: 'Tools&Tips'
+date: 2020-12-16
+permalink: /posts/2020/12/blog-post-2/
+# tags:
+#   - cool posts
+#   - category1
+#   - category2
+# paper_url: /posts/2012/08/blog-post-5/
+# code_url: /posts/2012/08/blog-post-5/
+blog_url: /posts/2020/12/blog-post-2/
+description: This is collection of some concepts and tools which I came across in research literature. 
+# thumbnail: /images/image-alignment-580x300.jpg
+---
+
+- Finding correlation between different modelities such as image and text. 
+
+Canonical correlation analysis (CCA) is one efficient tool that can be used for representation alignment. This aims to find the linear projection of two views which are maximum correlated.
+Formally, let X belongs to Real (n,m) and Y belongs Real (n,p) be two zero mean matrices of n observations with m and p features respectively. We aim to find k orthogonal linear projections A = {a_1, a_2, .., a_k}, B = {b_1, b_2, .., b_k}
+such that:
+
+
+where $\sigma$
+
+The distributions can also inhibit non linear relationships between them. Other techniques such Kernal CCA (KCCA)
