@@ -19,9 +19,13 @@ I am currently working on *Word Sense Disambiguation* at [ATILF](http://atilf.at
 
 News
 ======
+## 2021
+
 * Will be attending [ANITI's first Reinforcement Learning Virtual School](https://rlvs.aniti.fr/). 
 * Will be attending [Advanced Language Processing School 2021](http://lig-alps.imag.fr/) from 17th - 22nd January 2021.
 * Will be presenting my work “C-Net: Contextual Network for Sarcasm Detection” at [2nd study session on social networks corpora/data](https://www.loria.fr/event/11028/).
+
+## 2020
 * Will be attending [Indo ML Symposium](https://labs.iitgn.ac.in/datascience/indoml/) from 16th - 18th December 2020.
 * Our paper "Detection of COVID-19 informative tweets using RoBERTa" has been accepted at WNUT-2020
 * Two papers accepted at SemEval 2020.
