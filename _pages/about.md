@@ -20,6 +20,7 @@ I am currently working on *Word Sense Disambiguation* at [ATILF](http://atilf.at
 News
 ======
 ## 2021
+* Will be volunteering at AISTATS 2021
 * Will be attending [ANITI's first Reinforcement Learning Virtual School](https://rlvs.aniti.fr/) in April 2021. 
 * Attended [Advanced Language Processing School 2021](http://lig-alps.imag.fr/) from 17th - 22nd January 2021.
 * Will be presenting my work “C-Net: Contextual Network for Sarcasm Detection” at [2nd study session on social networks corpora/data](https://www.loria.fr/event/11028/).
