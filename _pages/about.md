@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a Researcher at [ATILF-CNRS, University of Lorraine, France](http://atilf.atilf.fr/) on Word Sense Disambiguation under supervision of [Dr. Sandrine Ollinger](https://perso.atilf.fr/sollinge/) and [Prof. Mathieu Constant](https://perso.atilf.fr/mconstant/).
+I am currently working as a Researcher at [ATILF-CNRS](https://www.atilf.fr/), [University of Lorraine](https://www.univ-lorraine.fr/) on Word Sense Disambiguation under supervision of [Dr. Sandrine Ollinger](https://perso.atilf.fr/sollinge/) and [Prof. Mathieu Constant](https://perso.atilf.fr/mconstant/).
 
-I completed Integrated Masters in Mathematics and Computing from the  Institute of Technology, Dhanbad. My Master Thesis was on *Multimodal Emotion Prediction* under the supervision of [Dr. Ashutosh Modi](https://ashutosh-modi.github.io/), Assistant Professor, Compter  Science & Engineering Department, IIT Kanpur, India.
+I completed Integrated Masters in Mathematics and Computing from the  Institute of Technology, Dhanbad. My Master Thesis was on *Multimodal Emotion Prediction* under the supervision of [Dr. Ashutosh Modi](https://ashutosh-modi.github.io/), Assistant Professor, IIT Kanpur, India.
 
 I am interested in the research areas of Deep Learning, Natural Language Understanding, and Graph Representation Learning Algorithms.
 
