@@ -8,20 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a Researcher at [ATILF-CNRS](https://www.atilf.fr/), [University of Lorraine](https://www.univ-lorraine.fr/) on Word Sense Disambiguation under supervision of [Dr. Sandrine Ollinger](https://perso.atilf.fr/sollinge/) and [Prof. Mathieu Constant](https://perso.atilf.fr/mconstant/).
+I hold a Integrated Masters in Mathematics and Computing from the [Indian Institute of Technology, Dhanbad](https://www.iitism.ac.in/). My Master Thesis was on *Multimodal Emotion Prediction* in a multi party setting, which you can read [here](https://drive.google.com/file/d/18l_T63Z8BHZvoKkRBFyJWPBBrweMmc04/view?usp=sharing).
 
-I completed Integrated Masters in Mathematics and Computing from the Indian Institute of Technology, Dhanbad. My Master Thesis was on *Multimodal Emotion Prediction* under the supervision of [Dr. Ashutosh Modi](https://ashutosh-modi.github.io/), Assistant Professor, IIT Kanpur, India.
+I am interested in the research areas of Deep Learning, Natural Language Understanding, and Graph Representation Learning methods. In particular, I am interested in the question of NLP models can be enhanced and explained using graph structured data.
 
-I am interested in the research areas of Deep Learning, Natural Language Understanding, and Graph Representation Learning Algorithms.
 
 
 
 News
 ======
 ## 2021
-* Will be volunteering at AISTATS 2021.
-* Will be attending [ANITI's first Reinforcement Learning Virtual School](https://rlvs.aniti.fr/) in April 2021.
-* Will be presenting my work “C-Net: Contextual Network for Sarcasm Detection” at [2nd study session on social networks corpora/data](https://www.loria.fr/event/11028/)
+* I will be volunteering at [AISTATS 2021](https://aistats.org/aistats2021/).
+* Attended [ANITI's first Reinforcement Learning Virtual School](https://rlvs.aniti.fr/) in April 2021.
 * Attended [Advanced Language Processing School 2021](http://lig-alps.imag.fr/) from 17th - 22nd January 2021..
 
 ## 2020
