@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a Researcher at [ATILF-CNRS](https://www.atilf.fr/) on _Word Sense Disambiguation using Lexical Knowledge base_ under supervision of [Dr. Sandrine Ollinger](https://perso.atilf.fr/sollinge/) and [Prof. Mathieu Constant](https://perso.atilf.fr/mconstant/).
+I am currently working as a Research Engineer at [ATILF-CNRS](https://www.atilf.fr/) on _Word Sense Disambiguation using Lexical Knowledge base_ under supervision of [Dr. Sandrine Ollinger](https://perso.atilf.fr/sollinge/) and [Prof. Mathieu Constant](https://perso.atilf.fr/mconstant/).
 
 I hold a Integrated Masters in Mathematics and Computing from the [Indian Institute of Technology, Dhanbad](https://www.iitism.ac.in/). My Master Thesis was on *Multimodal Emotion Prediction* in a multi party setting, which you can read [here](https://drive.google.com/file/d/18l_T63Z8BHZvoKkRBFyJWPBBrweMmc04/view?usp=sharing).
 
