@@ -20,7 +20,8 @@ I am interested in the research areas of Deep Learning, Natural Language Underst
 News
 ======
 ## 2021
-* I will be volunteering at [AISTATS 2021](https://aistats.org/aistats2021/).
+* I will be volunteering at [NAACL 2021](https://2021.naacl.org/).
+* I was volunteer at [AISTATS 2021](https://aistats.org/aistats2021/).
 * Attended [ANITI's first Reinforcement Learning Virtual School](https://rlvs.aniti.fr/) in April 2021.
 * Attended [Advanced Language Processing School 2021](http://lig-alps.imag.fr/) from 17th - 22nd January 2021..
 
