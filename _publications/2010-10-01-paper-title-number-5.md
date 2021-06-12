@@ -11,7 +11,7 @@ authors:
 paper_url: https://arxiv.org/pdf/2010.11238.pdf
 code_url: https://github.com/dsciitism/WNUT-2020-Task-2
 # blog_url: /publication/2010-10-01-paper-title-number-5
-conf_name: To appear in WNUT 2020
+conf_name: WNUT 2020
 # Proceedings of the 14th International Workshop on Semantic Evaluation
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 # venue: 'Journal 1'

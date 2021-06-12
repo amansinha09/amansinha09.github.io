@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Here is my academic cv in pdf format (current as of November 2020):
+Here is my academic cv in pdf format (current as of June 2021):
 
 <embed src="https://amansinha09.github.io/files/research_cv.pdf" type="application/pdf" width="600px" height="500px" />
   

@@ -11,7 +11,7 @@ authors:
 paper_url: https://arxiv.org/pdf/2008.00825.pdf
 code_url: https://github.com/dsciitism/SemEval-2020-Task-8
 # blog_url: /publication/2010-10-01-paper-title-number-2
-conf_name: To appear in SemEval 2020
+conf_name: SemEval 2020
 # Proceedings of the 14th International Workshop on Semantic Evaluation
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 # venue: 'Journal 1'
