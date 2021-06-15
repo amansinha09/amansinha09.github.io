@@ -38,7 +38,7 @@ News
 
 <details>
 <summary>
-## 2019
+<b>2019</b>
 </summary>
-* My work _Unsupervised Approach for Monitoring Satire on Social Media_, got accepted at 11th meeting of Forum for Information Retrieval Evaluation 2019.
+* My work  <i>Unsupervised Approach for Monitoring Satire on Social Media</i>, got accepted at 11th meeting of Forum for Information Retrieval Evaluation 2019.
 </details>
