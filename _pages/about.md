@@ -22,23 +22,25 @@ News
 ## 2021
 * I was volunteer at [NAACL 2021](https://2021.naacl.org/), [AISTATS 2021](https://aistats.org/aistats2021/).
 * Attended [ANITI's first Reinforcement Learning Virtual School](https://rlvs.aniti.fr/) in April 2021.
-* Attended [Advanced Language Processing School 2021](http://lig-alps.imag.fr/) from 17th - 22nd January 2021..
-
-## 2020
-* Attented [Indo ML Symposium](https://labs.iitgn.ac.in/datascience/indoml/) from 16th - 18th December 2020.
-* Our paper "Detection of COVID-19 informative tweets using RoBERTa" has been accepted at WNUT-2020.
-* Served as a reviewer for WNUT 2020.
-* Two papers accepted at SemEval 2020.
-* Receipient of Diversity & Inclusion Award for attending ACL 2020 conference.
-* Our paper “C-Net: Contextual Network for Sarcasm Detection” at FigLang 2020.
-
-## 2019
-* My work _Unsupervised Approach for Monitoring Satire on Social Media_, got accepted at 11th meeting of Forum for Information Retrieval Evaluation 2019.
-
+* Attended [Advanced Language Processing School 2021](http://lig-alps.imag.fr/) from 17th - 22nd January 2021.
 
 <details>
 <summary>
-<b><h2>2019</h2></b>
+<b>2020</b>
+</summary>
+<ul>
+  <li> Attented <a href="https://labs.iitgn.ac.in/datascience/indoml/">Indo ML Symposium </a> from 16th - 18th December 2020.</li>
+ <li> Our paper "Detection of COVID-19 informative tweets using RoBERTa" has been accepted at WNUT-2020.</li>
+  <li> Served as a reviewer for WNUT 2020. </li>
+  <li> Two papers accepted at SemEval 2020. </li>
+  <li> Receipient of Diversity & Inclusion Award for attending ACL 2020 conference. </li>
+  <li> Our paper “C-Net: Contextual Network for Sarcasm Detection” at FigLang 2020. </li>
+</ul>
+</details>
+
+<details>
+<summary>
+<b>2019</b>
 </summary>
 <ul>
 <li> My work <i>Unsupervised Approach for Monitoring Satire on Social Media</i>, got accepted at 11th meeting of Forum for Information Retrieval Evaluation 2019. </li>
