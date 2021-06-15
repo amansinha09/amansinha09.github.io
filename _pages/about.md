@@ -34,3 +34,11 @@ News
 
 ## 2019
 * My work _Unsupervised Approach for Monitoring Satire on Social Media_, got accepted at 11th meeting of Forum for Information Retrieval Evaluation 2019.
+
+
+<details>
+<summary>
+## 2019
+</summary>
+* My work _Unsupervised Approach for Monitoring Satire on Social Media_, got accepted at 11th meeting of Forum for Information Retrieval Evaluation 2019.
+</details>
