@@ -20,9 +20,11 @@ I am interested in the research areas of Deep Learning, Natural Language Underst
 News
 ======
 ## 2021
+* I served as a reviewer for [ICANN 2021](https://e-nns.org/icann2021/).
 * I was volunteer at [NAACL 2021](https://2021.naacl.org/), [AISTATS 2021](https://aistats.org/aistats2021/).
 * Attended [ANITI's first Reinforcement Learning Virtual School](https://rlvs.aniti.fr/) in April 2021.
-* Attended [Advanced Language Processing School 2021](http://lig-alps.imag.fr/) from 17th - 22nd January 2021.
+* Attended (ALPS) [Advanced Language Processing School 2021](http://lig-alps.imag.fr/) from 17th - 22nd January 2021.
+
 
 <details>
 <summary>
@@ -30,7 +32,7 @@ News
 </summary>
 <ul>
   <li> Attented <a href="https://labs.iitgn.ac.in/datascience/indoml/">Indo ML Symposium </a> from 16th - 18th December 2020.</li>
- <li> Our paper "Detection of COVID-19 informative tweets using RoBERTa" has been accepted at WNUT-2020.</li>
+  <li> Our paper "Detection of COVID-19 informative tweets using RoBERTa" has been accepted at WNUT-2020.</li>
   <li> Served as a reviewer for WNUT 2020. </li>
   <li> Two papers accepted at SemEval 2020. </li>
   <li> Receipient of Diversity & Inclusion Award for attending ACL 2020 conference. </li>
