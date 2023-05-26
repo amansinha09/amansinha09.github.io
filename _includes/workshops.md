@@ -1,4 +1,4 @@
-<h2 id="light-pubs" style="margin: 2px 0px -15px;">Lightly-Reviewed Workshops, Posters, and Demos</h2>
+<h2 id="light-pubs" style="margin: 2px 0px -15px;">Workshops and Posters</h2>
 
 <div class="publications">
 <ol class="bibliography">

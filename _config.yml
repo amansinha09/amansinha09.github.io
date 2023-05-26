@@ -1,25 +1,25 @@
 # Basic Information
-title: Raymond Fok
+title: Aman Sinha
 position: Ph.D. Student
-affiliation: University of Washington
-email: rayfok (at) cs.washington.edu
+affiliation: Université de Lorraine
+email: firstname.lastname (at) univ-lorraine.fr
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: raymond fok
-description: Raymond Fok's academic website.
+keywords: amsi
+description: amsi's academic website.
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=BuE1X6oAAAAJ
-semantic_scholar: https://www.semanticscholar.org/author/Raymond-Fok/27083453
+google_scholar: https://scholar.google.com/citations?user=aNuvZAkAAAAJ&hl=en
+#semantic_scholar: https://www.semanticscholar.org/author/Raymond-Fok/27083453
 # cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/rayfok
-twitter: https://twitter.com/rayrayfok
+github_link: https://github.com/amansinha09
+twitter: https://twitter.com/amansinha09
 
 # Images (e.g., your profile picture and your website's favicon)
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
-avatar: ./assets/img/profile.png
+avatar: ./assets/img/profile.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon.png
 
