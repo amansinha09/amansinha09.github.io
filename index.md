@@ -15,3 +15,6 @@ I am second year PhD student at Université de Lorraine, Nancy, France, under th
 - **Natural Language Processing** 
 
 
+{% include_relative _includes/news.md %}
+
+{% include_relative _includes/publications.md %}
