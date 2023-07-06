@@ -71,4 +71,4 @@
 </ol>
 </div>
 
-[Complete list: </temp><a href="https://scholar.google.com/citations?user=aNuvZAkAAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp>
+[Complete list: <a href="https://scholar.google.com/citations?user=aNuvZAkAAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a>]
