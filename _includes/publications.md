@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Relevant Publications <temp style="font-size:15px;"></h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Relevant Publications</h2>
 
 <br>
 
