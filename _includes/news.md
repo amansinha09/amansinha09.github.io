@@ -1,7 +1,8 @@
 ## News
 
 <ul>
-<li><strong>[June 2023]</strong>Attending <a href="https://quarter-on-causality.github.io/practice/">Causality in Practice</a> held at Institute Pascal, Orsay, France</li>
+<li><strong>[June 2023]</strong>Attending <a href="https://essai.si/">ESSAI & ACAI Summer school</a> (virtually).</li>
+<li><strong>[June 2023]</strong>Attended <a href="https://quarter-on-causality.github.io/practice/">Causality in Practice</a> held at Institute Pascal, Orsay, France</li>
 <li><strong>[May 2023]</strong> Paper accepted <a href="https://arts2023.sciencesconf.org/data/pages/proceedings_ARTS_2.pdf#page=88">What shall we read : the article or the citations? - A case study on scientific language understanding</a> at ARTS 2023 @ TALN-CORIA 2023.</li>
 <li><strong>[Apr. 2023]</strong> Gave a talk "Understanding Medical Language - A deep learning perspective" at PariSanté Campus, Paris, France.</li>
 <li><strong>[Feb. 2023]</strong> Visited Simula Research Laboratory, Oslo, Norway.</li>
