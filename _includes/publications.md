@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[Complete list: </temp><a href="https://scholar.google.com/citations?user=aNuvZAkAAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Relevant Publications</h2>
 
 <br>
 
@@ -70,3 +70,5 @@
 
 </ol>
 </div>
+
+[Complete list: <a href="https://scholar.google.com/citations?user=aNuvZAkAAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a>]
