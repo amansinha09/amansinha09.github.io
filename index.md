@@ -12,6 +12,8 @@ I am a PhD student at Université de Lorraine, Nancy, France, under the supervis
 ## Research Interests
 
 - **Medical Language Understanding** 
-- **Natural Language Processing** 
+- **Natural Language Processing**
+
+{% include_relative _includes/news.md %}
 
 {% include_relative _includes/publications.md %}
