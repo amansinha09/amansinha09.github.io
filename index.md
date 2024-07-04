@@ -14,8 +14,3 @@ I am a PhD student at Université de Lorraine, Nancy, France, under the supervis
 - **Medical Language Understanding** 
 - **Natural Language Processing** 
 
-#{% include_relative _includes/preprints.md %}
-
-#{% include_relative _includes/publications.md %}
-
-#{% include_relative _includes/workshops.md %}
