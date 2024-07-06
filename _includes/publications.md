@@ -5,6 +5,8 @@
 <div class="publications">
 <ol class="bibliography">
 
+<h2 id="publications" style="margin: 2px 0px -15px;">2024</h2>
+
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -44,6 +46,7 @@
 </li>
 
 <br>
+<h2 id="publications" style="margin: 2px 0px -15px;">2023</h2>
 
 <li>
 <div class="pub-row">
@@ -84,6 +87,8 @@
 </li>
 
 <br>
+
+<h2 id="publications" style="margin: 2px 0px -15px;">2022</h2>
 
 <li>
 <div class="pub-row">
