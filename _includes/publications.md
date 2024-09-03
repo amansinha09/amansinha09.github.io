@@ -15,11 +15,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://amansinha09.github.io">Domain-specific or Uncertainty-aware models: Does it really make a difference for biomedical text classification?</a></div>
+    <div class="title"><a href="https://aclanthology.org/2024.bionlp-1.16/">Domain-specific or Uncertainty-aware models: Does it really make a difference for biomedical text classification?</a></div>
     <div class="author"><strong>Aman Sinha</strong>, Timothee Mickus, Marianne Clausel, Mathieu Constant, and Xavier Coubez</div>
-    <div class="periodical"><em>To appear in BioNLP Workshop @ ACL 2024. Aug 2024.</em></div>
+    <div class="periodical"><em>In Proceedings of the 23rd Workshop on Biomedical Natural Language Processing, pages 202–211, Bangkok, Thailand. Association for Computational Linguistics. Aug 2024.</em></div>
     <div class="links">
-      <a href="https://amansinha09.github.io" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://aclanthology.org/2024.bionlp-1.16.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
@@ -35,11 +35,12 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://amansinha09.github.io">Retrieve, Generate, Evaluate: A Case Study for Medical Paraphrases Generation with Small Language Models</a></div>
+    <div class="title"><a href="https://aclanthology.org/2024.knowllm-1.16/">Retrieve, Generate, Evaluate: A Case Study for Medical Paraphrases Generation with Small Language Models</a></div>
     <div class="author">Ioana Buhnila, <strong>Aman Sinha</strong>, and Mathieu Constant</div>
-    <div class="periodical"><em>To appear in KnowledgeLM Workshop @ ACL 2024. Aug 2024.</em></div>
+    <div class="periodical"><em>In Proceedings of the 1st Workshop on Towards Knowledgeable Language Models (KnowLLM 2024), pages 189–203, Bangkok, Thailand. Association for Computational Linguistics. Aug 2024.</em></div>
     <div class="links">
-      <a href="https://amansinha09.github.io" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://aclanthology.org/2024.knowllm-1.16.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/ATILF-UMR7118/pRAGe" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
