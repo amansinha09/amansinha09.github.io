@@ -1,6 +1,7 @@
 ## News
 
 <ul>
+<li><strong>[Sep. 2024]</strong> Will attend <a href="https://athnlp.github.io/2024/index.html">Athens NLP 2024 Summer School</a> in Athens, Greece.</li>
 <li><strong>[Aug. 2024]</strong> 2 workshop papers accepted at ACL 2024.</li>
 <li><strong>[Jul. 2024]</strong> Visting Researcher at University of Helsinki, Finland.</li>
 <li><strong>[Nov. 2023]</strong> Will be attending <a href="https://lift2023.sciencesconf.org/">LIFT 2023</a> held at LORIA, Nancy, France.</li>
