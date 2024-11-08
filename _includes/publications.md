@@ -10,7 +10,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teasers/verifiability_teaser.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/teasers/UoD_teaser.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">BioNLP 2024</abbr>
   </div>
 
@@ -30,7 +30,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teasers/verifiability_teaser.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/teasers/prage_teaser.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">KnowledgeLM 2024</abbr>
   </div>
 
@@ -52,7 +52,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teasers/verifiability_teaser.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/teasers/slan_teaser.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ArXiv</abbr>
   </div>
 
@@ -94,7 +94,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teasers/scim_teaser.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/teasers/cme2_teaser.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">WNLPe-Health 2022</abbr>
   </div>
 
@@ -115,7 +115,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teasers/scim_teaser.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/teasers/socialner_teaser.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">SMM4H 2022</abbr>
   </div>
 
