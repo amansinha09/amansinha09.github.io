@@ -11,12 +11,12 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teasers/disgreement.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/teasers/disagreement.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Under Review</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://aclanthology.org/2024.bionlp-1.16/">Your Model is Overconfident, and Other Lies We Tell Ourselves</a></div>
+    <div class="title"><a href="https://amansinha09.github.io/">Your Model is Overconfident, and Other Lies We Tell Ourselves</a></div>
     <div class="author">Timothee Mickus, <strong>Aman Sinha</strong>  and Raúl Vázquez </div>
     <div class="periodical"><em>Under Review.</em></div>
     <div class="links">
