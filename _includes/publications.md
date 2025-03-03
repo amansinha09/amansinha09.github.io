@@ -5,6 +5,29 @@
 <div class="publications">
 <ol class="bibliography">
 
+
+<h2 id="publications" style="margin: 2px 0px -15px;">2025</h2>
+<br>
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teasers/disgreement.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Under Review</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://aclanthology.org/2024.bionlp-1.16/">Your Model is Overconfident, and Other Lies We Tell Ourselves</a></div>
+    <div class="author">Timothee Mickus, <strong>Aman Sinha</strong>  and Raúl Vázquez </div>
+    <div class="periodical"><em>Under Review.</em></div>
+    <div class="links">
+      <a href="https://amansinha09.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
 <h2 id="publications" style="margin: 2px 0px -15px;">2024</h2>
 <br>
 <li>
