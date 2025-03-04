@@ -16,11 +16,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://amansinha09.github.io/">Your Model is Overconfident, and Other Lies We Tell Ourselves</a></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2503.01235">Your Model is Overconfident, and Other Lies We Tell Ourselves</a></div>
     <div class="author">Timothee Mickus, <strong>Aman Sinha</strong>  and Raúl Vázquez </div>
     <div class="periodical"><em>Under Review.</em></div>
     <div class="links">
-      <a href="https://amansinha09.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/pdf/2503.01235" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
