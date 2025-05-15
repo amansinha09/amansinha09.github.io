@@ -36,7 +36,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://amansinha09.github.io/">Identifying hallmarks of immune checkpoint inhibitors in BRCA-mutated breast cancer using language models on medical congress abstracts</a></div>
-    <div class="author"><strong>Aman Sinha</strong></div>
+    <div class="author">Bogdan-Valentin Popescu and <strong>Aman Sinha</strong></div>
     <div class="periodical"><em>Under Review.</em></div>
     <div class="links">
       <a href="https://amansinha09.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
