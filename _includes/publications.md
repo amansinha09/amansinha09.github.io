@@ -5,7 +5,6 @@
 <div class="publications">
 <ol class="bibliography">
 
-
 <h2 id="publications" style="margin: 2px 0px -15px;">2025</h2>
 <br>
 <li>
@@ -21,6 +20,46 @@
     <div class="periodical"><em>To appear at ACL 2025.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2503.01235" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teasers/article.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">SMM4H-HeaRD 2025</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://amansinha09.github.io/">IAI at #SMM4H-HeaRD 2025: Benchmarking PLMs for medical language understanding tasks</a></div>
+    <div class="author"><strong>Aman Sinha</strong></div>
+    <div class="periodical"><em>To appear at SMM4H-HeaRD 2025.</em></div>
+    <div class="links">
+      <a href="https://amansinha09.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teasers/article.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">RadNLP 2024</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://amansinha09.github.io/">ATILF at NTCIR-18 RadNLP 2024 Shared Task: With less radiology reports, comes less performance</a></div>
+    <div class="author"><strong>Aman Sinha</strong>, Ioana Buhnila</div>
+    <div class="periodical"><em>To appear at RadNLP 2024.</em></div>
+    <div class="links">
+      <a href="https://amansinha09.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
