@@ -31,15 +31,15 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/teasers/article.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">SMM4H-HeaRD 2025</abbr>
+    <abbr class="badge">RadNLP 2024</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://amansinha09.github.io/">IAI at #SMM4H-HeaRD 2025: Benchmarking PLMs for medical language understanding tasks</a></div>
-    <div class="author"><strong>Aman Sinha</strong></div>
-    <div class="periodical"><em>To appear at SMM4H-HeaRD 2025.</em></div>
+    <div class="title"><a href="https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings18/pdf/posters/17-NTCIR18-RADNLP-SinhaA.pdf">With less radiology reports, comes less performance</a></div>
+    <div class="author"><strong>Aman Sinha</strong> and Ioana Buhnila</div>
+    <div class="periodical"><em>NTCIR-18: Proceedings of the 18th NTCIR Conference on Evaluation ofInformation Access Technologies, June 10-13, 2025, Tokyo, Japan.</em></div>
     <div class="links">
-      <a href="https://amansinha09.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings18/pdf/posters/17-NTCIR18-RADNLP-SinhaA.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
     </div>
   </div>
 </div>
