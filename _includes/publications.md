@@ -11,6 +11,25 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/teasers/disagreement.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">AIW 2025</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://amansinha09.github.io/">Simplicity isn't as simple as you think</a></div>
+    <div class="author"><strong>Aman Sinha</strong>, Timothee Mickus, Marianne Clausel, Mathieu Constant, and Xavier Coubez</div>
+    <div class="periodical"><em>To appear at Workshop on Actionable Interpretability@ICML 2025.</em></div>
+    <div class="links">
+      <a href="https://amansinha09.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teasers/disagreement.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ACL 2025</abbr>
   </div>
 
