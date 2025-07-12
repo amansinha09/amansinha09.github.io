@@ -19,7 +19,7 @@
     <div class="author"><strong>Aman Sinha</strong>, Timothee Mickus, Marianne Clausel, Mathieu Constant, and Xavier Coubez</div>
     <div class="periodical"><em>To appear at Workshop on Actionable Interpretability@ICML 2025.</em></div>
     <div class="links">
-      <a href="/assets/files/159_simplicity_is_not_as_simple_as_you_think.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+      <a href="https://actionable-interpretability.github.io/posters/159_simplicity_is_not_as_simple_as_you_think%20-%20Aman%20Sinha.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
     </div>
   </div>
 </div>
