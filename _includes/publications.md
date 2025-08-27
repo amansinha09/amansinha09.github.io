@@ -17,7 +17,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://amansinha09.github.io/">Simplicity isn't as simple as you think</a></div>
     <div class="author"><strong>Aman Sinha</strong>, Timothee Mickus, Marianne Clausel, Mathieu Constant, and Xavier Coubez</div>
-    <div class="periodical"><em>To appear at Workshop on Actionable Interpretability@ICML 2025.</em></div>
+    <div class="periodical"><em>Workshop on Actionable Interpretability@ICML 2025.</em></div>
     <div class="links">
       <a href="https://actionable-interpretability.github.io/posters/159_simplicity_is_not_as_simple_as_you_think%20-%20Aman%20Sinha.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
     </div>
@@ -34,11 +34,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2503.01235">Your Model is Overconfident, and Other Lies We Tell Ourselves</a></div>
+    <div class="title"><a href="https://aclanthology.org/2025.acl-long.269/">Your Model is Overconfident, and Other Lies We Tell Ourselves</a></div>
     <div class="author">Timothee Mickus, <strong>Aman Sinha</strong>  and Raúl Vázquez </div>
-    <div class="periodical"><em>To appear at ACL 2025.</em></div>
+    <div class="periodical"><em>In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 5401–5417, Vienna, Austria. Association for Computational Linguistics 2025.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2503.01235" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://aclanthology.org/2025.acl-long.269.pdf/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
