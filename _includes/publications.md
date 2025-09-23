@@ -10,6 +10,26 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teasers/slan_teaser.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">TS4H 2025</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2309.08698.pdf">Modelling Irregularly Sampled Time Series Without Imputation</a></div>
+    <div class="author">Rohit Agarwal ,<strong>Aman Sinha</strong>, Dilip Prasad, Marianne Clausel, Alexander Horsh, Mathieu Constant, and Xavier Coubez</div>
+    <div class="periodical"><em>Workshop on Learning from Time Series for Health, NeurIPS 2025.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2309.08698.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/teasers/disagreement.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">AIW 2025</abbr>
   </div>
@@ -109,25 +129,6 @@
 
 <br>
 <h2 id="publications" style="margin: 2px 0px -15px;">2023</h2>
-<br>
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teasers/slan_teaser.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ArXiv</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2309.08698.pdf">Modelling Irregularly Sampled Time Series Without Imputation</a></div>
-    <div class="author">Rohit Agarwal ,<strong>Aman Sinha</strong>, Dilip Prasad, Marianne Clausel, Alexander Horsh, Mathieu Constant, and Xavier Coubez</div>
-    <div class="periodical"><em>ArXiv 2309.08698. Sept 2023.</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2309.08698.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li>
-
 <br>
 
 <li>
