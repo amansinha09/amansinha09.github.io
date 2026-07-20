@@ -18,10 +18,8 @@ Here are some outcomes: <a href="https://chomps2025.github.io/">CHOMPS</a> <img 
 ## Research Interests
 
 - **Medical Language Understanding** 
-- **Natural Language Processing**
-- **Interpretability**
-- **Disagreement**
-- **Uncertainty**
+- **Model Interpretability, Uncertainty**
+- **Label Variation**
 
 {% include_relative _includes/news.md %}
 
