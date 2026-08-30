@@ -22,5 +22,3 @@ Here are some outcomes: <a href="https://chomps2025.github.io/">CHOMPS</a> <img 
 - **Label Variation**
 
 {% include_relative _includes/news.md %}
-
-{% include_relative _includes/publications.md %}
